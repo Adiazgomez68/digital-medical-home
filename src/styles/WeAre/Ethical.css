@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Gothic+A1&family=Nanum+Gothic&family=Pathway+Gothic+One&family=Poppins&family=Rubik:wght@300;400&display=swap');
+
+.ethical {
+    position: relative;
+    border: #284761 solid 1px;
+    height: 400px;
+    background: #284761 0% 0% no-repeat padding-box;
+}
+
+.ethical h1 {
+    color: #FFFFFF;
+    margin-top: 35px;
+    font-size: 38px;
+    text-align: center;
+    font-family: 'Pathway Gothic One', sans-serif;
+}
+
+.ethical #e-images{
+    display: inline-flex;
+    position: relative;
+}
+
+#e-images div {
+    width: 155px;
+    margin-left: 148px;
+    margin-top: 20px;
+}
+
+#e-images div img {
+    width: 150px;
+}
+
+#e-images div p {
+    color: #FFFFFF;
+    font-size: 18px;
+}

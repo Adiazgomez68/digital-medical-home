@@ -1,0 +1,50 @@
+.serv-section {
+    display: inline-flex;
+    height: 580px;
+}
+
+.lorem {
+    height: 525px;
+    width: 500px;
+    position: relative;
+    top: 20px;
+}
+
+.lorem h1 {
+    position: absolute;
+    left: 110px;
+    font-size: 45px;
+    text-align: left;
+    font-family: 'Pathway Gothic One', sans-serif;
+    color: #284761;
+}
+
+.lorem ul {
+    position: absolute;
+    left: 73px;
+    top: 157px;
+    font-size: 20px;
+    list-style: none;
+    font-family: 'Rubik';
+    line-height: 35px;
+    color: #071428;
+}
+
+/* --------------------------------------------------- */
+
+.serv-images {
+    position: relative;
+    border: #071428 solid 1px;
+    width: 650px;
+    right: 0;
+}
+
+.serv-images div {
+    /* display: inline-flex; */
+    width: 310px;
+    margin-top: 100px;
+}
+
+.serv-images div img {
+    width: 100%;
+}

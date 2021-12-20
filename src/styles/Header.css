@@ -1,0 +1,47 @@
+.h-appBar {
+    height: 85px;
+    position: relative;
+}
+
+.h-appBar #imagotipo {
+    position: relative;
+    width: 130px;
+    height: 60px;
+    top: 7px;
+    left: 90px;
+}
+
+.h-appBar #imagotipo img {
+    position: absolute;
+    width: 130px;
+    opacity: 1;
+}
+
+.h-appBar #ops {
+    position: relative;
+    /* border: red solid 1px; */
+    display: inline-flex;
+    height: 85px;
+}
+
+.h-appBar #ops h6 {
+    position: absolute;
+    left: 220px;
+    color: var(--unnamed-color-ffffff);
+    text-align: left;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.h-appBar #btn-cita {
+    position: absolute;
+    right: 110px;
+    width: 180px;
+    font-size: 12px;
+    font-weight: bold;
+    height: 40px;
+    border: 1px solid #FFFFFF66;
+    border-radius: 4px;
+    opacity: 1;
+}

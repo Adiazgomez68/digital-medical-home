@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Gothic+A1&family=Nanum+Gothic&family=Pathway+Gothic+One&family=Poppins&family=Rubik:wght@300;400&display=swap');
+
+.banner-contact {
+    position: relative;
+    background: var(--unnamed-color-5ca28a) 0% 0% no-repeat padding-box;
+    background: #5CA28A 0% 0% no-repeat padding-box;
+    height: 450px;
+}
+
+.banner-contact #contact {
+    position: relative;
+    height: 299px;
+    top: 100px;
+    float: left;
+}
+
+.banner-contact h1 {
+    position: absolute;
+    top: 20px;
+    left: 110px;
+    font-size: 50px;
+    text-align: left;
+    font-family: 'Pathway Gothic One', sans-serif;
+    color: #FFFFFF;;
+}
+
+.banner-contact p {
+    position: absolute;
+    text-align: left;
+    width: 640px;
+    line-height: 35px;
+    font-size: 20px;
+    font-family: 'Rubik';
+    color: #FFFFFFD9;
+    letter-spacing: 1px;
+    left: 110px;
+    top: 110px;
+}
+
+.banner-contact img {
+    position: absolute;
+    width: 200px;
+    right: 160px;
+    top: 190px;
+}

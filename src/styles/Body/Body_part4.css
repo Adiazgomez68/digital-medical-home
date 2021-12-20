@@ -1,0 +1,74 @@
+.testimonials {
+    position: relative;
+    top: 190px;
+    height: 330px;
+    background: #284761 0% 0% no-repeat padding-box;
+}
+.testimonials #test-text {
+    position: absolute;
+    width: 230px;
+    top: 70px;
+    left: 110px;
+}
+
+#test-text p {
+    text-align: left;
+    color: #5CA28A;
+    font-size: 13px;
+}
+
+#test-text h2 {
+    text-align: left;
+    font-size: 29px;
+    font-family: 'Poppins';
+    color: #C7FAFF;
+}
+
+/* -------------------------------------------------------------- */
+
+.test-cards {
+    position: absolute;
+    /* border: #fffb00 solid 1px; */
+    display: inline-flex;
+    left: 530px;
+    top: 85px;
+}
+
+.test-cards #card {
+    width: 300px;
+    height: 300px;
+    margin-right: 40px;
+    border: #ff0000 solid 2px;
+    background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 20px 40px #0000000F;
+    border: 1px solid #F1F1F1;
+    border-radius: 8px;
+}
+
+#card img {
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    width: 60px;
+    height: 60px;
+}
+
+#card h5 {
+    margin-left: 110px;
+    margin-top: 35px;
+    color: #0F1C49;
+}
+
+#card span p {
+    margin-left: 110px;
+    margin-top: -5px;
+    color: #878DA4;
+}
+
+#card p {
+    color: #878DA4;
+    text-align: left;
+    font-size: 13px;
+    margin-left: 30px;
+}

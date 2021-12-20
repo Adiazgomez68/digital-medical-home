@@ -1,0 +1,84 @@
+.doctor {
+    position: relative;
+    height: 950px;
+    top: 150px;
+}
+
+.doctor p {
+    color: var(--unnamed-color-5ca28a);
+    text-align: center;
+    letter-spacing: 0px;
+    color: #5CA28A;
+    opacity: 1;
+    font-size: 12px;
+}
+
+.doctor h2 {
+    margin-top: 18px;
+    text-align: center;
+    font: normal normal 600 45px/48px Poppins;
+    letter-spacing: 0px;
+    line-height: 32px;
+    font-size: 25px;
+    color: #0F1C49;
+    opacity: 1;
+}
+
+.doctor #doctor-img {
+    position: absolute;
+    left: 110px;
+    top: 160px;
+    width: 250px;
+    height: 430px;
+}
+
+#doctor-img img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+#doctor-img h4 {
+    position: absolute;
+    font-family: Poppins;
+    font-weight: bold;
+    text-align: left;
+    left: 22px;
+    top: 332px;
+    color: #0F1C49;
+}
+
+#doctor-img p {
+    position: absolute;
+    font-size: 10.5px;
+    left: 22px;
+    top: 385px;
+}
+
+/* -------------------------------------------------------- */
+
+.doctor-info {
+    width: 505px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 620px;
+}
+
+.doctor-info hr {
+    width: 80%;
+    background: #5CA28A 0% 0% no-repeat padding-box;
+    height: 2px;
+}
+
+.doctor-info p {
+    font-size: 12.3px;
+    color: #878DA4;
+    margin-bottom: 20px;
+}
+
+.doctor-info a {
+    margin-left: 45%;
+    color: #5CA28A;
+    font-weight: bold;
+}

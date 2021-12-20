@@ -1,0 +1,51 @@
+.footer {
+    position: relative;
+    background: #284761 0% 0% no-repeat padding-box;
+    /* top: 3050px; */
+    height: 584px;
+}
+
+.part1 #p1-info{
+    width: 300px;
+    position: absolute;
+    left: 110px;
+    top: 20px;
+}
+
+#p1-info p {
+    text-align: left;
+    letter-spacing: 1px;
+    color: #FFFFFF99;
+}
+
+#p1-info h1 {
+    text-align: left;
+    font-family: 'Poppins';
+    font-weight: 400;
+    color: #FFFFFF;
+}
+
+#p1-btn {
+    position: relative;
+    height: 50px;
+    top: 40px;
+}
+
+#p1-btn #pCita {
+    position: absolute;
+    right: 110px;
+    background: var(--unnamed-color-5ca28a) 0% 0% no-repeat padding-box;
+    background: #5CA28A 0% 0% no-repeat padding-box;
+    border: 1px solid #FFFFFF66;
+    border-radius: 4px;
+    color: white;
+    width: 180px;
+    height: 50px;
+}
+
+.part1 hr {
+    width: 83.5%;
+    margin-top: 120px;
+    opacity: 0.2;
+    background-color: #FFFFFF99;
+}

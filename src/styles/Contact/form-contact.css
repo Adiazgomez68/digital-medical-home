@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Rubik:wght@300;400&display=swap');
+
+.form-contact {
+    background: #1B3448 0% 0% no-repeat padding-box;
+    position: relative;
+    /* display: inline-flex; */
+    height: 500px;
+}
+
+.form-contact #form {
+    position: absolute;
+    width: 431px;
+    height: 450px;
+    margin-left: 150px;
+    margin-top: 30px;
+}
+
+#form h1 {
+    text-align: left;
+    font-family: 'Rubik';  
+    color: #FFFFFF;
+}
+
+#form label {
+    text-align: left;
+    font-family: 'Rubik';
+    font-size: 13px;
+    margin-top: 10px;
+    color: #FFFFFF;
+}
+
+#form input {
+    height: 35px;
+    width: 200px;
+    margin-top: 5px;
+    font-size: 18px;
+    
+}
+
+#form textarea {
+    width: 425px;
+    height: 120px;
+    font-size: 18px;
+    margin-top: 5px;
+}
+
+#form #send {
+    position: absolute;
+    background: white;
+    width: 160px;
+    height: 40px;
+    bottom: 20px;
+    left: 32%;
+    color: #1B3448;
+    font-weight: bold;
+}
+
+/* -------------------------------------------------------------------- */
+/* -------------------------------------------------------------------- */
+
+#address {
+    position: absolute;
+    width: 470px;
+    height: 430px;
+    right: 110px;
+    top: 30px;
+}
+
+#address h1 {
+    text-align: left;
+    font-family: 'Rubik';
+    color: #FFFFFF;
+}
+
+#address li {
+    margin-left: -39px;
+    margin-top: 10px;
+    color: #5CA28A;
+}
+
+#address li span {
+    text-align: left;
+    font-family: 'Rubik';
+    font-weight: 300;
+    font-size: 19px;
+    color: #ffffff;
+}
+
+#ad-info {
+    /* border: red solid 1px; */
+    height: 127px;
+    margin-top: 50px;
+}
+
+#ad-info p {
+    text-align: left;
+    letter-spacing: 1.57px;
+    font-size: 13px;
+    margin-top: 20px;
+    color: #FFFFFF99;
+}
+
+#ad-info h2 {
+    color: #FFFFFF;
+    font-family: 'Pathway Gothic One', sans-serif;
+    font-size: 19px;
+    letter-spacing: 1px;
+}
+
+#ad-info #ad-btn {
+    position: absolute;
+    right: 0;
+    bottom: 30px;
+    background: #5CA28A 0% 0% no-repeat padding-box;
+    border: 1px solid #FFFFFF66;
+    border-radius: 2px;
+    color: white;
+    width: 150px;
+    height: 43px;
+    font-weight: bold;
+}
+
+#ad-info hr {
+    margin-top: 50px;
+   opacity: 0.3;
+}
